@@ -316,6 +316,10 @@ graph LR
 </p>
 
 <p align="center">
+  <img src="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/dc681702ae3c69d6a205a51f1ab76ed88327586d/Screenshots/curl%20-I%20Results.png?raw=true" alt="Curl HTTP response headers" width="80%">
+</p>
+
+<p align="center">
   <a href="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/e87c6911894300979b850fb1570bc12406b9aa9b/Screenshots/Nslookup%20Results.txt">Nslookup Results (.txt)</a>
 </p>
 
