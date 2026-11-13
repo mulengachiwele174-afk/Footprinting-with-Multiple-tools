@@ -308,7 +308,7 @@ graph LR
 ## Evidence
 
 <p align="center">
-  <img src="screenshots/pm1-whois.png" alt="WHOIS registration summary" width="80%">
+  <img src="[screenshots/pm1-whois.png" alt="WHOIS registration](https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/b6b86e477fc17e54be309e6eaefc589a39adf4cb/Screenshots/week%202%20whois%20networks.png) summary" width="80%">
 </p>
 
 <p align="center">
