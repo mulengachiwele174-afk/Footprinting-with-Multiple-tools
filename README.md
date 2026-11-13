@@ -343,9 +343,7 @@ graph LR
   <img src="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/e87c6911894300979b850fb1570bc12406b9aa9b/Screenshots/theharvest%20Imag.png?raw=true" alt="theHarvester image" width="80%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/e87c6911894300979b850fb1570bc12406b9aa9b/Screenshots/Zenmap%20Imag.pdf">Zenmap Screenshot (.pdf)</a>
-</p>
+
 
 ## Project Report
 
