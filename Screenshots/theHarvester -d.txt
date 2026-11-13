@@ -1,0 +1,170 @@
+                                                                                                                  
+┌──(mulenga㉿kali)-[~]
+└─$ theHarvester -d microsoft.com -l 50 -b all
+Read proxies.yaml from /etc/theHarvester/proxies.yaml
+*******************************************************************
+*  _   _                                            _             *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __|  _ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester 4.11.1                                             *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*                                                                 *
+*******************************************************************
+
+[*] Target: microsoft.com 
+
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process bevigil search for word: 'microsoft.com'
+Error Message: 
+[!] Missing API key for bevigil. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for Bitbucket. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process bufferoverun search for word: 'microsoft.com'
+Error Message: 
+[!] Missing API key for bufferoverun. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to perform BuiltWith search for word: 'microsoft.com'
+A Missing Key Error occurred in builtwith: 
+[!] Missing API key for BuiltWith. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Failed to process brave search for word: 'microsoft.com'
+Error Message: 
+[!] Missing API key for Brave Search. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Censys API key is missing or invalid: 
+[!] Missing API key for Censys ID and/or Secret. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing key error occurred in criminalip: 
+[!] Missing API key for criminalip. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in dehashed: 
+[!] Missing API key for Dehashed. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for DNSDumpster. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in dymo: 
+[!] Missing API key for dymo. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in fullhunt: 
+[!] Missing API key for fullhunt. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Error initializing SearchGithubCode: 
+[!] Missing API key for Github. 
+A Missing Key error occurred in github-code: 
+[!] Missing API key for Github. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for HaveIBeenPwned. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Hunter: 
+[!] Missing API key for Hunter. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Hunter How: 
+[!] Missing API key for hunterhow. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in intelx: 
+[!] Missing API key for Intelx. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+[*] Mojeek: No API key found, using default scraping mode.
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Netlas: 
+[!] Missing API key for netlas. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Unexpected error occurred in Onyphe module: 
+[!] Missing API key for onyphe. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in PentestTools search: 
+[!] Missing API key for PentestTools. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in ProjectDiscovery: 
+[!] Missing API key for ProjectDiscovery. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in RocketReach: 
+[!] Missing API key for RocketReach. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+
+[!] Missing API key for SecurityScorecard. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred Security Trails: 
+[!] Missing API key for Securitytrail. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in sherlockeye: 
+[!] Missing API key for sherlockeye. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Shodan search: 
+[!] Missing API key for Shodan. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in Tomba: 
+[!] Missing API key for Tomba Key and/or Secret. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in venacus search: 
+[!] Missing API key for Venacus. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in virustotal search: 
+[!] Missing API key for virustotal. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in whoisxml search: 
+[!] Missing API key for whoisxml. 
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+Read api-keys.yaml from /etc/theHarvester/api-keys.yaml
+A Missing Key error occurred in zoomeye: 
+[!] Missing API key for zoomeye. 
+[*] Searching Baidu. 
+No response from Chaos API for: https://dns.projectdiscovery.io/dns/microsoft.com/subdomains
+[*] Searching Chaos. 
+        Searching results.
+[*] Searching Certspotter. 
+Exception occurred: Expected object or value
+[*] Searching Duckduckgo. 
+[*] Searching CRTsh. 
+No response from Fofa API for: microsoft.com
+[*] Searching Fofa. 
+^CTraceback (most recent call last):
+  File "/usr/lib/python3.14/asyncio/runners.py", line 128, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "uvloop/loop.pyx", line 1518, in uvloop.loop.Loop.run_until_complete
+  File "/usr/lib/python3/dist-packages/theHarvester/__main__.py", line 1940, in entry_point
+    await start()
+  File "/usr/lib/python3/dist-packages/theHarvester/__main__.py", line 1383, in start
+    await handler(lst=stor_lst)
+  File "/usr/lib/python3/dist-packages/theHarvester/__main__.py", line 1375, in handler
+    await queue.join()
+  File "/usr/lib/python3.14/asyncio/queues.py", line 250, in join
+    await self._finished.wait()
+  File "/usr/lib/python3.14/asyncio/locks.py", line 213, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/bin/theHarvester", line 8, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/usr/lib/python3/dist-packages/theHarvester/theHarvester.py", line 32, in main
+    asyncio.run(__main__.entry_point())
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/asyncio/runners.py", line 205, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/usr/lib/python3.14/asyncio/runners.py", line 133, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+<sys>:0: RuntimeWarning: coroutine 'start.<locals>.store' was never awaited
+
+                                                                                                                   
+┌──(mulenga㉿kali)-[~]
+└─$ 

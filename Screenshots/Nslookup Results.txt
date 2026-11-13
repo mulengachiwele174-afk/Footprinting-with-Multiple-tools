@@ -1,0 +1,11 @@
+┌──(mulenga㉿kali)-[~]
+└─$  nslookup networks.com   
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+Name:   networks.com
+Address: 52.20.84.62
+
+                                                                                                       
+┌──(mulenga㉿kali)-[~]
