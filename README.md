@@ -305,63 +305,44 @@ graph LR
     C --> H[PM5: Network discovery with Nmap CLI]
 ```
 
-## Evidence
+## <b>Evidence</b>
 
 <p align="center">
-  <img src="[screenshots/pm1-whois.png" alt="WHOIS registration](https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/b6b86e477fc17e54be309e6eaefc589a39adf4cb/Screenshots/week%202%20whois%20networks.png) summary" width="80%">
+  <a href="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/e87c6911894300979b850fb1570bc12406b9aa9b/Screenshots/whois%20Results.txt">WHOIS Results (.txt)</a>
 </p>
 
 <p align="center">
-  <img src="screenshots/pm1-whatweb.png" alt="WhatWeb technology fingerprint" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/e87c6911894300979b850fb1570bc12406b9aa9b/Screenshots/whatsweb.png?raw=true" alt="WhatWeb technology fingerprint" width="80%">
 </p>
 
 <p align="center">
-  <img src="screenshots/pm1-nslookup.png" alt="Nslookup resolution" width="80%">
+  <a href="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/e87c6911894300979b850fb1570bc12406b9aa9b/Screenshots/Nslookup%20Results.txt">Nslookup Results (.txt)</a>
 </p>
 
 <p align="center">
-  <img src="screenshots/pm1-curl-headers.png" alt="Curl response headers" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/e87c6911894300979b850fb1570bc12406b9aa9b/Screenshots/wafw00f.png?raw=true" alt="Wafw00f WAF detection" width="80%">
 </p>
 
 <p align="center">
-  <img src="screenshots/pm1-wafw00f.png" alt="Wafw00f WAF detection" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/e87c6911894300979b850fb1570bc12406b9aa9b/Screenshots/DNS.png?raw=true" alt="DNSRecon enumeration" width="80%">
 </p>
 
 <p align="center">
-  <img src="screenshots/pm1-dnsrecon.png" alt="DNSRecon enumeration" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/e87c6911894300979b850fb1570bc12406b9aa9b/Screenshots/maltego%20pic.png?raw=true" alt="Maltego result" width="80%">
 </p>
 
 <p align="center">
-  <img src="screenshots/pm2-math-search.png" alt="Mathematics PDF search results" width="80%">
+  <a href="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/e87c6911894300979b850fb1570bc12406b9aa9b/Screenshots/theHarvester%20-d.txt">theHarvester Results (.txt)</a>
 </p>
 
 <p align="center">
-  <img src="screenshots/pm2-ghdb-redacted.png" alt="Redacted GHDB camera search" width="80%">
+  <img src="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/e87c6911894300979b850fb1570bc12406b9aa9b/Screenshots/theharvest%20Imag.png?raw=true" alt="theHarvester image" width="80%">
 </p>
 
 <p align="center">
-  <img src="screenshots/pm3-maltego-domain.png" alt="Maltego domain entity" width="80%">
+  <a href="https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/e87c6911894300979b850fb1570bc12406b9aa9b/Screenshots/Zenmap%20Imag.pdf">Zenmap Screenshot (.pdf)</a>
 </p>
 
-<p align="center">
-  <img src="screenshots/pm3-maltego-result.png" alt="Final Maltego result" width="80%">
-</p>
-
-<p align="center">
-  <img src="screenshots/pm4-baidu.png" alt="theHarvester Baidu result" width="80%">
-</p>
-
-<p align="center">
-  <img src="screenshots/pm4-all-sources.png" alt="theHarvester all-sources aggregate results" width="80%">
-</p>
-
-<p align="center">
-  <img src="screenshots/pm5-nmap-ping.png" alt="Nmap ping scan" width="80%">
-</p>
-
-<p align="center">
-  <img src="screenshots/pm5-topology.png" alt="Nmap host-discovery topology" width="80%">
-</p>
 ## Project Report
 
 📄 **[Download the Week 2 Project Report](https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/f3d358a040e92bf365affbee96d1be40e443c147/Pentest_Report_Week2.pdf)**
