@@ -364,7 +364,7 @@ graph LR
 </p>
 ## Project Report
 
-📄 **[Download the Week 2 Project Report](./Week2-Project-Report.pdf)**
+📄 **[Download the Week 2 Project Report](https://github.com/mulengachiwele174-afk/Footprinting-with-Multiple-tools/blob/f3d358a040e92bf365affbee96d1be40e443c147/Pentest_Report_Week2.pdf)**
 
 ## About the Author
 
