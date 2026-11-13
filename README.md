@@ -305,6 +305,63 @@ graph LR
     C --> H[PM5: Network discovery with Nmap CLI]
 ```
 
+## Evidence
+
+<p align="center">
+  <img src="screenshots/pm1-whois.png" alt="WHOIS registration summary" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm1-whatweb.png" alt="WhatWeb technology fingerprint" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm1-nslookup.png" alt="Nslookup resolution" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm1-curl-headers.png" alt="Curl response headers" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm1-wafw00f.png" alt="Wafw00f WAF detection" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm1-dnsrecon.png" alt="DNSRecon enumeration" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm2-math-search.png" alt="Mathematics PDF search results" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm2-ghdb-redacted.png" alt="Redacted GHDB camera search" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm3-maltego-domain.png" alt="Maltego domain entity" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm3-maltego-result.png" alt="Final Maltego result" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm4-baidu.png" alt="theHarvester Baidu result" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm4-all-sources.png" alt="theHarvester all-sources aggregate results" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm5-nmap-ping.png" alt="Nmap ping scan" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/pm5-topology.png" alt="Nmap host-discovery topology" width="80%">
+</p>
 ## Project Report
 
 📄 **[Download the Week 2 Project Report](./Week2-Project-Report.pdf)**
